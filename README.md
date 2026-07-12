@@ -1,24 +1,24 @@
 <!--
-      ____ _   _ _____        _____          _       _          ____  _____ _   _ ____ ___  _   _ 
-     / ___| | | |_   _|      |_   _| __ __ _(_)_ __ (_)_   _ ___|  _ \| ____| \ | / ___/ _ \| \ | |
-    | |  _| | | | | |_____     | || '__/ _` | | '_ \| | | | / __| |_) |  _| |  \| \___| | | |  \| |
-    | |_| | |_| | | |_____|    | || | | (_| | | | | | | |_| \__ \  __/| |___| |\  |___) | |_| | |\  |
-     \____|\___/  |_|          |_||_|  \__,_|_|_| |_|_|\__,_|___/_|   |_____|_| \_|____/\___/|_| \_|
-                                                                                                      
-      ____  _____ _   _ _____ _   _ ____    _____ ____  _   _  ____ _____ ___ ___  _   _ ____  
-     |  _ \| ____| \ | |_   _| | | |  _ \  | ____|  _ \| \ | |/ ___| ____|_ _/ _ \| \ | / ___| 
-     | |_) |  _| |  \| | | | | | | | |_) | |  _| | |_) |  \| | |  _|  _|  | | | | |  \| \___ \ 
-     |  _ <| |___| |\  | | | | |_| |  __/  | |___|  _ <| |\  | |_| | |___ | | |_| | |\  |___) |
-     |_| \_\_____|_| \_| |_|  \___/|_|     |_____|_| \_\_| \_|\____|_____|___\___/|_| \_|____/ 
-                                                                                                  
-      ___ _   ___  __ _   ___   ___  _   _ ___ 
-     / _ \ | / _ \/ _\ | / _ \ / _ \| | | / __|
-    | (_) |_| |_| \_ \ || (_) | |_| | |_| \__ \
-     \___/____\___/|__/_| \___/ \___/ \___/|___/
-                                                 
+ ____ _ _ _____ _____ _ _ ____ _____ _ _ ____ ___ _ _ 
+ / ___| | | |_ _| |_ _| __ __ _(_)_ __ (_)_ _ ___| _ \| ____| \ | / ___/ _ \| \ | |
+ | | _| | | | | |_____ | || '__/ _` | | '_ \| | | | / __| |_) | _| | \| \___| | | | \| |
+ | |_| | |_| | | |_____| | || | | (_| | | | | | | |_| \__ \ __/| |___| |\ |___) | |_| | |\ |
+ \____|\___/ |_| |_||_| \__,_|_|_| |_|_|\__,_|___/_| |_____|_| \_|____/\___/|_| \_|
+ 
+ ____ _____ _ _ _____ _ _ ____ _____ ____ _ _ ____ _____ ___ ___ _ _ ____ 
+ | _ \| ____| \ | |_ _| | | | _ \ | ____| _ \| \ | |/ ___| ____|_ _/ _ \| \ | / ___| 
+ | |_) | _| | \| | | | | | | | |_) | | _| | |_) | \| | | _| _| | | | | | \| \___ \ 
+ | _ <| |___| |\ | | | | |_| | __/ | |___| _ <| |\ | |_| | |___ | | |_| | |\ |___) |
+ |_| \_\_____|_| \_| |_| \___/|_| |_____|_| \_\_| \_|\____|_____|___\___/|_| \_|____/ 
+ 
+ ___ _ ___ __ _ ___ ___ _ _ ___ 
+ / _ \ | / _ \/ _\ | / _ \ / _ \| | | / __|
+ | (_) |_| |_| \_ \ || (_) | |_| | |_| \__ \
+ \___/____\___/|__/_| \___/ \___/ \___/|___/
+ 
 -->
 
-# 🇪🇸 Guía de Trading en España — La Guía Definitiva para Operar desde España
+# 🇪🇸 Guía de Trading en España , La Guía Definitiva para Operar desde España
 
 > **Actualizado:** Julio 2026 | **Idioma:** Español | **Audiencia:** Residentes en España
 
@@ -92,9 +92,9 @@ No todos los brokers del mundo aceptan residentes españoles. Aquí tienes los *
 | **AvaTrade** 🥇 | CySEC (#147/06) | ✅ Autorizado | **$100** | Desde 0.9 pips | 1:30 (minorista) | 1-2 días | 128979 |
 | **XM** 🥇 | CySEC (#120/07) | ✅ Autorizado | **$5** | Desde 0.6 pips | 1:30 (minorista) | 1 día | QK44F |
 | **Exness** 🥇 | CySEC (#178/13) | ✅ Autorizado | **$10** | Desde 0.1 pips | 1:30 (minorista) | Instantánea | xxv8puyog3 |
-| **eToro** | CySEC (#109/07) | ✅ Autorizado | **$50** | Desde 1.0 pips | 1:30 | 3-5 días | — |
-| **Pepperstone** | CySEC (#337/04) | ✅ Autorizado | **$200** | Desde 0.0 pips | 1:30 | 1 día | — |
-| **IC Markets** | CySEC (#452/23) | ✅ Autorizado | **$200** | Desde 0.0 pips | 1:30 | 1-2 días | — |
+| **eToro** | CySEC (#109/07) | ✅ Autorizado | **$50** | Desde 1.0 pips | 1:30 | 3-5 días | , |
+| **Pepperstone** | CySEC (#337/04) | ✅ Autorizado | **$200** | Desde 0.0 pips | 1:30 | 1 día | , |
+| **IC Markets** | CySEC (#452/23) | ✅ Autorizado | **$200** | Desde 0.0 pips | 1:30 | 1-2 días | , |
 
 > **Leyenda:** 🥇 = Recomendado para españoles | ✅ = Registrado oficialmente en la CNMV | Spreads en cuenta estándar
 
@@ -102,9 +102,9 @@ No todos los brokers del mundo aceptan residentes españoles. Aquí tienes los *
 
 | Broker | Veredicto | Ideal para |
 |--------|-----------|------------|
-| **🥇 AvaTrade** | Mejor broker general para España — regulación sólida, bono de bienvenida, atención en español | Principiantes y traders intermedios |
-| **🥇 XM** | Mejor depósito mínimo ($5) — bono sin depósito de $30 al registrarte | Principiantes con poco capital |
-| **🥇 Exness** | Mejores spreads y retiradas instantáneas — sin bonos pero mejores condiciones | Traders activos y scalpers |
+| **🥇 AvaTrade** | Mejor broker general para España , regulación sólida, bono de bienvenida, atención en español | Principiantes y traders intermedios |
+| **🥇 XM** | Mejor depósito mínimo ($5) , bono sin depósito de $30 al registrarte | Principiantes con poco capital |
+| **🥇 Exness** | Mejores spreads y retiradas instantáneas , sin bonos pero mejores condiciones | Traders activos y scalpers |
 
 ---
 
@@ -154,7 +154,7 @@ Las ganancias obtenidas mediante trading (forex, CFDs, acciones, criptomonedas) 
 
 - **📍 Dónde declararlo:** Casilla de *Ganancias y pérdidas patrimoniales derivadas de transmisiones* en la declaración de IRPF (Renta Web)
 - **🔄 Compensación de pérdidas:** Puedes compensar pérdidas con ganancias dentro del mismo ejercicio. Si el saldo es negativo, puedes compensar hasta el 25% en los 4 años siguientes
-- **🚫 Sin retención:** Los brokers UE bajo MiFID no retienen IRPF — eres tú quien debe declarar voluntariamente
+- **🚫 Sin retención:** Los brokers UE bajo MiFID no retienen IRPF , eres tú quien debe declarar voluntariamente
 - **📅 Plazo:** Declaración anual del IRPF (abril-junio del año siguiente)
 - **🏦 Modelo 720:** Si tienes más de **€50,000** en cuentas en el extranjero (incluyendo brokers), estás obligado a presentar el Modelo 720
 - **🧾 Justificantes:** Guarda todos los extractos anuales, historiales de operaciones y comprobantes de depósitos/retiradas
@@ -178,7 +178,7 @@ Estos son los métodos de pago más comunes para depositar en brokers desde Espa
 | **💻 PayPal** | Instantáneo | 0-1% | €500-5,000 | XM |
 | **📱 Skrill** | Instantáneo | 0-1% | €500-10,000 | AvaTrade, XM, Exness |
 | **📱 Neteller** | Instantáneo | 0-1% | €500-10,000 | AvaTrade, XM, Exness |
-| **💶 Bizum** | ❌ No disponible | — | — | Ninguno (aún) |
+| **💶 Bizum** | ❌ No disponible | , | , | Ninguno (aún) |
 | **₿ Criptomonedas (USDT/BTC)** | Instantáneo | Variable | Variable | Exness, algunos más |
 
 > **💡 Recomendación:** Para depósitos pequeños usa tarjeta (instantáneo). Para cantidades grandes usa transferencia SEPA (más seguro, sin comisiones).
@@ -192,7 +192,7 @@ Estos son los métodos de pago más comunes para depositar en brokers desde Espa
 | **MetaTrader 4 (MT4)** | Desktop/Móvil/Web | ⭐⭐⭐⭐⭐ | Depende del broker | ✅ Expert Advisors | ✅ Sí | Trading manual y automatizado |
 | **MetaTrader 5 (MT5)** | Desktop/Móvil/Web | ⭐⭐⭐⭐⭐ | Depende del broker | ✅ EAs + más timeframes | ✅ Sí | Trading multiactivo y avanzado |
 | **cTrader** | Desktop/Móvil/Web | ⭐⭐⭐⭐ | Generalmente más bajos | ✅ cBots en C# | ✅ Sí | Trading algorítmico moderno |
-| **TradingView** | Web/Móvil | ⭐⭐⭐⭐⭐ | — | ✅ Pine Script | ✅ Sí | **Análisis técnico** (no ejecuta operaciones) |
+| **TradingView** | Web/Móvil | ⭐⭐⭐⭐⭐ | , | ✅ Pine Script | ✅ Sí | **Análisis técnico** (no ejecuta operaciones) |
 | **AvaTradeGO** | Móvil | ⭐⭐⭐⭐ | Fijos | ❌ No | ✅ Sí | Trading desde móvil |
 | **Exness Terminal** | Web | ⭐⭐⭐⭐ | Variables | ❌ No | ✅ Sí | Trading desde navegador |
 
@@ -226,9 +226,9 @@ Estos son los métodos de pago más comunes para depositar en brokers desde Espa
 
 ### 4️⃣ Paso 4: Verifica tu Identidad
 - Documentos necesarios:
-  - **DNI o NIE** (español en vigor)
-  - **Comprobante de domicilio** (factura luz, agua, gas o extracto bancario de los últimos 3 meses)
-  - **Selfie** con el documento (algunos brokers)
+ - **DNI o NIE** (español en vigor)
+ - **Comprobante de domicilio** (factura luz, agua, gas o extracto bancario de los últimos 3 meses)
+ - **Selfie** con el documento (algunos brokers)
 - La verificación suele tardar 24-48 horas
 - **Sin verificación no puedes retirar fondos**
 
@@ -302,33 +302,33 @@ Este repositorio se actualiza periódicamente para reflejar los cambios regulato
 
 | Fecha | Versión | Cambios Realizados |
 |:----:|:-------:|--------------------|
-| Jul 2026 | v2.0 | 🔄 Actualización completa gold mine — FAQ expandido (14 preguntas), tabla de métodos de pago, comparativa de plataformas, IRPF 2026 detallado, avisos GitHub alert boxes, badges, registro de verificación |
+| Jul 2026 | v2.0 | 🔄 Actualización completa gold mine , FAQ expandido (14 preguntas), tabla de métodos de pago, comparativa de plataformas, IRPF 2026 detallado, avisos GitHub alert boxes, badges, registro de verificación |
 | Ene 2026 | v1.2 | 💰 Actualización tramos IRPF 2026 |
 | Jul 2025 | v1.1 | 🏦 Añadidos Pepperstone e IC Markets |
 | Ene 2025 | v1.0 | 🚀 Primera publicación de la guía |
 
 ### 🔍 Próximas Actualizaciones Planificadas
 
-- [ ] Nov 2026 — Revisión de tramos IRPF para 2027
-- [ ] Dic 2026 — Nuevos brokers verificados para 2027
-- [ ] Ene 2027 — Actualización del Modelo 720
+- [ ] Nov 2026 , Revisión de tramos IRPF para 2027
+- [ ] Dic 2026 , Nuevos brokers verificados para 2027
+- [ ] Ene 2027 , Actualización del Modelo 720
 
 ---
 
 ## 🔗 Enlaces Últiles
 
 ### 🌐 Sitios Oficiales
-- [CNMV — Comisión Nacional del Mercado de Valores](https://www.cnmv.es)
-- [Agencia Tributaria — Modelo 720](https://sede.agenciatributaria.gob.es)
-- [ESMA — Autoridad Europea de Valores](https://www.esma.europa.eu)
+- [CNMV , Comisión Nacional del Mercado de Valores](https://www.cnmv.es)
+- [Agencia Tributaria , Modelo 720](https://sede.agenciatributaria.gob.es)
+- [ESMA , Autoridad Europea de Valores](https://www.esma.europa.eu)
 
 ### 📚 Guías y Recursos
-- [🌍 **Aprende Trading** — Guía completa en español](https://aprende-trading.com)
-- [📈 **AvaTrade** — Código de afiliado 128979](https://tradetheday.com/brokers/avatrade/partner-code)
-- [💰 **XM** — Código de afiliado QK44F](https://partnercode.org/xm-partner-code/)
-- [📊 **Exness** — Código xxv8puyog3](https://aprende-trading.com)
+- [🌍 **Aprende Trading** , Guía completa en español](https://aprende-trading.com)
+- [📈 **AvaTrade** , Código de afiliado 128979](https://tradetheday.com/brokers/avatrade/partner-code)
+- [💰 **XM** , Código de afiliado QK44F](https://partnercode.org/xm-partner-code/)
+- [📊 **Exness** , Código xxv8puyog3](https://aprende-trading.com)
 - [⭐ **Reseña de AvaTrade**](https://tradetheday.com/brokers/avatrade)
-- [📖 **TradingView** — Análisis técnico gratuito](https://www.tradingview.com)
+- [📖 **TradingView** , Análisis técnico gratuito](https://www.tradingview.com)
 
 ---
 
@@ -347,14 +347,14 @@ Si esta guía te ha ayudado a empezar tu camino en el trading, considera:
 > [!CAUTION]
 > **⚠️ AVISO DE RIESGO IMPORTANTE**
 >
-> **Operar forex, CFDs, acciones y criptomonedas conlleva un riesgo ALTO de perder dinero.** Entre el **74-89% de los inversores minoristas pierden dinero** al operar CFDs con los brokers mencionados en esta guía. Debes estar seguro de comprender los riesgos y disponer de la experiencia necesaria antes de operar.
+> **Operar forex, CFDs, acciones y criptomonedas conlleva un riesgo ALTO de perder dinero.** Entre el **74-89% de los inversores minoristas pierden dinero** al operar CFDs con los brokers mencionados aquí. Debes estar seguro de comprender los riesgos y disponer de la experiencia necesaria antes de operar.
 >
 > **Nunca inviertas dinero que no puedas permitirte perder.** El trading con apalancamiento puede multiplicar tanto las ganancias como las pérdidas.
 >
-> **⚠️ Disclaimer Fiscal:** La información fiscal contenida en esta guía es **orientativa y no constituye asesoramiento fiscal profesional**. Las leyes y tipos impositivos pueden cambiar y varían por comunidad autónoma. **Consulta siempre con un asesor fiscal colegiado** antes de tomar decisiones basadas en esta información.
+> **⚠️ Disclaimer Fiscal:** La información fiscal contenida aquí es **orientativa y no constituye asesoramiento fiscal profesional**. Las leyes y tipos impositivos pueden cambiar y varían por comunidad autónoma. **Consulta siempre con un asesor fiscal colegiado** antes de tomar decisiones basadas en esta información.
 >
 > **⚠️ Disclaimer de Afiliación:** Algunos enlaces de esta guía son enlaces de afiliado. Si te registras a través de ellos, podemos recibir una comisión sin coste adicional para ti. Esto no afecta a nuestras recomendaciones, que se basan en la calidad del servicio.
 >
 > ---
 >
-> **© 2026 — Guía de Trading en España** | Mantenida por [aprende-trading.com](https://aprende-trading.com) | Hecho en 🇪🇸 para traders españoles
+> **© 2026 , Guía de Trading en España** | Mantenida por [aprende-trading.com](https://aprende-trading.com) | Hecho en 🇪🇸 para traders españoles
